@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <form action="/process_data.php" method="post">
     What is your name?<br>
     <input type="Textbox">
     <br>
