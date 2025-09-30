@@ -57,6 +57,6 @@
     Fornite
     <input type="checkbox">
     Others:
-    <button>Submit</button>
+    <button type="submit">submit</button>
 </body>
 </html>
